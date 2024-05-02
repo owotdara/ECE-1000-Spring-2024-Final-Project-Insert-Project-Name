@@ -1,29 +1,63 @@
-# Insert Project Name Here
-This GitHub contains all relevant files used during development of our ... insert project name ... project for ECE 1000.
-## Project Summary
-Crawl spaces grant convenient access to the plumbing, duct work, and electrical wiring of a house, but they often present unique dangers to maintenance professionals and residents alike. Exposure to harsh breathing conditions, hanging obstacles, uncomfortable working positions, and even animals can cause non-ideal conditions. This capstone project will focus on the design and assembly of a robot prototype that can perform these inspections autonomously. The end product will be an autonomous, mobile robot that can be left unattended in a crawlspace by an inspector. It will navigate through the space, create a map and model of the space, compile an image of the entire crawlspace ceiling, and collect sensor data. This sensor data will include humidity, temperature, and wood moisture content.
+ECE Report 
 
-## Project Capabilities 
-The first iteration of the project focused on setting up the hardware systems. Sensors, microcontrollers, motors, and power circuits were designed and implemented as part of a larger multi-group project. The following details the current capabilities of the robot.
+ 
 
-* Low-level autonomy which allows the robot to navigate through an enclosed area
-* Creating a map of the area using the SLAM algorithm
-* Take pictures throughout an area and stitch simple areas into a singular, larger image
-* Collect humidity, temperature, and moisture content data and overlay information on images
-* Supply power for consistent operation across all components
-* Robot movement through serial commands and return encoder data to the main microcontroller
-* Manual control through text-based commands while also streaming live video to the operator
+Project Name 
 
-## Who Are We? Mr. Jesse Robert's ECE 4961 Capstone Team 1
+ 
 
-* James (Jim) Camp - Senior Electrical Engineering Major, Mechatronics Concentration - Environmental Sensor Subsystem Developer - Delegator 
-* John-Caleb (JC) Williams - Senior Electrical Engineering Major, Electromagnetics Concentration - Navigation Subsystem Developer - Treasurer
-* John Harris - Senior Electrical Engineering Major, Controls Concentration - Power Subsystem Developer - Secretary
-* Joseph Thomas - Senior Electrical Engineering Major, Power Concentration - Movement Subsystem Developer - Social 
+Renewable Energy Generating System. 
 
-* Mr. Jesse Roberts - Professor and Faculty Advisor
+Project Summary 
 
-* Project Stakeholders - This project was developed for anyone who needs to inspect their crawlspace. This includes homeowners, building inspectors, and renovators. The system is also a great solution for anyone experiencing issues with mold or unsafe crawlspace conditions.
+The project aims to develop a renewable energy system with a solar panel and windmill connected to an LED and a battery to store energy. The solar panel transforms sunlight into electricity, which powers the LED throughout the day, and a battery to store the electricity to be used at night. Similarly, the windmill uses wind energy to generate power, lighting an LED when the wind blows. 
 
-## Link To An Example GitHub Project
-* https://github.com/JCWilliams1003/Autonomous-Crawlspace-Inspection-Robot
+ 
+
+Project Capabilities  
+
+. The Project can generate electricity using solar and wind energy, ensuring a continuous  
+
+power supply throughout the day and night, depending on weather conditions.  
+.  The project can be expanded by installing additional solar panels or windmills to boost energy generation capacity.  
+.  The project has a beneficial environmental impact because it reduces carbon emissions from conventional power sources.  
+
+.  This project can be used as a teaching tool highlighting the fundamentals of renewable energy generation and sustainability. 
+
+.    The system includes a battery to store energy, an inductor, and resistors ensuring a continuous power supply when it is dark or wind-free. 
+
+ 
+
+ 
+
+ 
+
+Who Are We 
+
+ 
+
+Shammah Oke – Freshman Electrical Engineering Major 
+
+OluwaDara Owotomo – Freshman Computer Engineering Major 
+
+Moussa Modi, Mashoud – Junior Electrical Engineering Major 
+
+ 
+
+ 
+
+ 
+
+Roles 
+
+We all worked together to complete the project, but if we’re going into details what each person did: 
+
+ 
+
+Modi made the circuit for the LED of the house and soldered it.   
+
+Dara built the House for the solar system and 3d printing for the fans. 
+
+Shammah built and soldered the windmill. 
+
+ 
